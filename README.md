@@ -155,7 +155,7 @@ all of which are geared towards helping you started with Git & GitHub ...
                 <strong style="color: #039de7; font-size: 14px; font-weight: bold; line-height: 1.4; padding: 0 10px;">Results From A Quick Google.com Search <span class="arrow">&xrarr;</span></strong>
                 <br>
                 <em style="color: #92999d; font-size: 12px; font-weight: normal; line-height: 1.4; padding: 0 10px;">
-                    An *UNLIMITED* list of resources available on Google, which is constantly being updated.
+                    An <strong>UNLIMITED</strong> list of resources available on Google, which is constantly being updated.
                 </em>
                 <br>Ó
             </td>
@@ -168,7 +168,7 @@ all of which are geared towards helping you started with Git & GitHub ...
                 <strong style="color: #039de7; font-size: 14px; font-weight: bold; line-height: 1.4; padding: 0 10px;">Results From A Quick Google Search <span class="arrow">&xrarr;</span></strong>
                 <br>
                 <em style="color: #92999d; font-size: 12px; font-weight: normal; line-height: 1.4; padding: 0 10px;">
-                    An *UNLIMITED* list of resources available on Google, which is constantly being updated.
+                    An <strong>UNLIMITED</strong> list of resources available on Google, which is constantly being updated.
                 </em>
                 <br>
             </td>
